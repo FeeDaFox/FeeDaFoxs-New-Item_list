@@ -21,18 +21,18 @@ tumblr:
 twitter:
 vimeo:
 wordpress:
-youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
-twitch: sirrandoo
+youtube: UC-7LWx4XBt--wr7sfam3Svw
+twitch: FeeDaFox
 tiktok:
 
 # Share button options
 share:
-  facebook: true
+  facebook: 
   twitter: true
   tumblr:
   pinterest:
   pocket:
-  reddit: true
+  reddit: 
   linkedin:
   wordpress:
-  email: true
+  email: 
