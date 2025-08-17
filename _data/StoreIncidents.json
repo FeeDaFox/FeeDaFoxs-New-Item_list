@@ -11,11 +11,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "vomitrain",
-		"price": 650,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "foggyrain",
 		"price": 300,
 		"karmatype": "Neutral"
@@ -48,6 +43,11 @@
 	{
 		"abr": "heatwave",
 		"price": 750,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "flashstorm",
+		"price": 400,
 		"karmatype": "Bad"
 	},
 	{
@@ -181,9 +181,24 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "shippartpoison",
+		"price": 1900,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "shippartpsychic",
+		"price": 2400,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "militaryaid",
 		"price": 700,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "dropraid",
+		"price": 1500,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "infestation",
@@ -206,18 +221,13 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "disease",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "reviveanypawn",
 		"price": 1200,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "pawn",
-		"price": 3000,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -227,23 +237,18 @@
 	},
 	{
 		"abr": "trait",
-		"price": 3500,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 5500,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "genderswap",
 		"price": 600,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "item",
-		"price": 50,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "prisoner",
@@ -284,11 +289,6 @@
 		"abr": "healme",
 		"price": 2167,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "surgery",
-		"price": 1,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "passionshuffle",
