@@ -3,7 +3,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "2.3.5.0"
+    "version": "2.4.1.0"
   },
   {
     "author": "Soul, Phaneron and Bradson",
@@ -15,7 +15,7 @@
     "author": "RedMattis",
     "name": "Big and Small - Framework",
     "steamId": "2925432336",
-    "version": "1.0.0+036e57d4e61d345fd431f0ce9437fd5d8cb78498"
+    "version": "1.0.0+91eaded8abac4c3f64e116b15a91f4af3d6ecce0"
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
@@ -33,7 +33,7 @@
     "author": "Imranfish",
     "name": "XML Extensions",
     "steamId": "2574315206",
-    "version": "1.9.1"
+    "version": "1.9.2"
   },
   {
     "author": "UnlimitedHugs",
@@ -171,7 +171,7 @@
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
-    "version": "1.6.4518.1"
+    "version": "1.6.4553.2"
   },
   {
     "author": "Andreas Pardeike",
@@ -537,7 +537,7 @@
     "author": "ㅇ",
     "name": "Infinite Reinforce",
     "steamId": "2623528901",
-    "version": "1.2.0.4"
+    "version": "1.2.0.5"
   },
   {
     "author": "Zaljerem",
@@ -651,7 +651,7 @@
     "author": "Epicguru",
     "name": "Melee Animation",
     "steamId": "2944488802",
-    "version": "1.0.0+557a36ace48303d144ec88cb71ad3bf89fcccfd5"
+    "version": "1.0.0+0a51d313ee8254e3ceaee046d87d633cf398d9ce"
   },
   {
     "author": "Mlemtlestgent",
@@ -729,7 +729,7 @@
     "author": "Thomotron and The Phinix Team",
     "name": "Phinix",
     "steamId": "1620283146",
-    "version": "0.9.6.0"
+    "version": "0.9.7.0"
   },
   {
     "author": "LingLuo",
@@ -909,7 +909,7 @@
     "author": "Neronix17",
     "name": "Tabula Rasa",
     "steamId": "1660622094",
-    "version": "1.6.9317.23041"
+    "version": "1.6.9373.24978"
   },
   {
     "author": "GHXX",
@@ -964,12 +964,6 @@
     "name": "Uniform Growing Zone Tool",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "alt4s",
-    "name": "Universal Trade Hub",
-    "steamId": "3281403886",
-    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, Smash Phil and Sarg Bjornson",
@@ -1341,7 +1335,7 @@
     "author": "Smash Phil",
     "name": "Vehicle Framework",
     "steamId": "3014915404",
-    "version": "1.0.0+362fa21b197153d9c2e47cdc262e281e5ad3dbc6"
+    "version": "1.6+640efbf646275dafd663d0b6efbacb2a67d02d30"
   },
   {
     "author": "Victor and wilki24",
@@ -1389,7 +1383,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "4.1.7.0"
+    "version": "4.1.8.0"
   },
   {
     "author": "RedMattis",
@@ -1401,7 +1395,7 @@
     "author": "alite",
     "name": "EBSG Framework",
     "steamId": "3112549163",
-    "version": "1.0.9358.22274"
+    "version": "1.0.9364.15815"
   },
   {
     "author": "AobaKuma",
@@ -1437,7 +1431,7 @@
     "author": "Team Rim-Effect",
     "name": "Rim-Effect Renegade: Core",
     "steamId": "3473370247",
-    "version": "1.6.9319.33231"
+    "version": "1.6.9360.40273"
   },
   {
     "author": "Andromeda",
@@ -1983,7 +1977,7 @@
     "author": "Uuugggg",
     "name": "Replace Stuff - Continued",
     "steamId": "",
-    "version": "1.0.0+4b8e6850ec15a644d80aa95887387ebb8ea0918a"
+    "version": "1.0.0+75fd2e732628d8a53947206c5e161917629327cb"
   },
   {
     "author": "sirrandoo",
@@ -2076,12 +2070,6 @@
     "version": "1.5.2.0+61694815f123034bf8a029db2bbc8e693a4d9214"
   },
   {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Better Pawn Lending Quest",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "AobaKuma",
     "name": "The Dead Man's Switch - Motorized",
     "steamId": null,
@@ -2091,7 +2079,7 @@
     "author": "AobaKuma",
     "name": "Exosuit Framework",
     "steamId": "3352894993",
-    "version": "1.0.0+67f4a8c0f34d46f633a6cf495043f0d61dc585c9"
+    "version": "1.0.0+144c4c2d2064cab63704c7a69920a558756d89af"
   },
   {
     "author": "AobaKuma",
