@@ -106,11 +106,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "maninblack",
-		"price": 350,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad"
@@ -133,11 +128,6 @@
 	{
 		"abr": "herdmigration",
 		"price": 200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "farmanimals",
-		"price": 400,
 		"karmatype": "Good"
 	},
 	{
@@ -181,19 +171,14 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "shippartpoison",
-		"price": 1900,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "shippartpsychic",
-		"price": 2400,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "militaryaid",
 		"price": 700,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "raid",
+		"price": 1500,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "dropraid",
@@ -226,11 +211,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "pawn",
-		"price": 1,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
@@ -253,11 +233,6 @@
 	{
 		"abr": "prisoner",
 		"price": 800,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "visitcolony",
-		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -356,5 +331,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 71
+	"total": 66
 }
