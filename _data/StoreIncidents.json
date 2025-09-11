@@ -232,12 +232,12 @@
 	},
 	{
 		"abr": "trait",
-		"price": 1,
+		"price": 3500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 1,
+		"price": 5500,
 		"karmatype": "Good"
 	},
 	{
